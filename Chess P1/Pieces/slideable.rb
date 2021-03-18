@@ -24,7 +24,6 @@ module Slideable
 
     def moves
 
-
     end
 
 
@@ -35,13 +34,6 @@ module Slideable
     end
 
     def grow_unblocked_moves_in_dir(dx, dy)
-        moves_array = []
-
-        moving = true
-        while moving 
-            self.pos 
-            if self[dx, dy] 
-        end 
 
     end
 
